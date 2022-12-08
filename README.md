@@ -1,2 +1,2 @@
 # dio-desafio-github
-Criando o primeiro repositório para o bootcamp Kotlin
+Prmeiro repositório para o bootcamp Kotlin Professionals da [DIO](https://www.dio.me)
